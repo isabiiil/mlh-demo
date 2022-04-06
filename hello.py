@@ -1,5 +1,5 @@
 name = input("what's your name?: ")
 print("Hello world")
-I ALSO DON'T KNOW PYTHON
+print("MLH is pretty darn fun!")
 print("Glad to meet you :)")
 I DONT KNOW PYTHON LOL!
